@@ -1,0 +1,4 @@
+project: PROJECT
+target: tiff_read_rgba_fuzzer
+cmds:
+- cmd: /out/tiff_read_rgba_fuzzer
